@@ -125,3 +125,4 @@ Port Fast   - spanning-tree portfast
 DNS Disable - no ip domain-lookup
 clockrate 128000
 default originate
+.
